@@ -1,0 +1,50 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: tan;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: #333;
+}
+h3{
+    font-size: 30px;
+}
+.box {
+    border: 2px solid #000;
+    padding: 15px;
+    width: 300px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    
+}
+.box a {
+    display: block;
+    margin: 10px 0;
+    color: #007BFF;
+    text-align: center;
+}
+.box a:hover {
+    text-decoration: underline;
+}
+section {
+    margin-top: 40px;
+}
+
+.tennis-court {
+    text-align: center;
+}
+
+.tennis-text{
+    font-size:  21px;
+    text-align: left;
+    color: #000;
+    
+}
+
+
+
+
+    
